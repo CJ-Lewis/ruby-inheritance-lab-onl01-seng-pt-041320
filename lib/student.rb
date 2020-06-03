@@ -10,3 +10,4 @@ class Student < User
   end
   knowledge
 end
+end
